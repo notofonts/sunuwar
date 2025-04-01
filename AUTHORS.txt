@@ -5,3 +5,7 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Anshuman Pandey, Script Encoding Initiative <pandey@umich.edu>
+University of California, Berkeley 
+National Endowments for the Humanities
+Unicode Adopt-a-Character
