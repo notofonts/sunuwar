@@ -1,0 +1,132 @@
+{
+.appVersion = "3338";
+.formatVersion = 3;
+exportPath = "./";
+fontPath = "../sources/NotoSansSunuwar.glyphs";
+instances = (
+{
+customParameters = (
+{
+name = vendorID;
+value = JP;
+},
+{
+name = panose;
+value = (
+"2",
+"11",
+"5",
+"2",
+"4",
+"5",
+"4",
+"2",
+"2",
+"4"
+);
+},
+{
+name = unicodeRanges;
+value = (
+"0",
+"6",
+"57"
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+disabled = 1;
+name = "Save as TrueType";
+value = 1;
+},
+{
+disabled = 1;
+name = "TTFAutohint options";
+value = "--default-script=none";
+}
+);
+name = Regular;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Regular;
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "SEI Sunuwar";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://www.jamra-patel.com/";
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "This font was designed by Anshuman Pandey for the Script Encoding Initiative with support from the University of California, Berkeley, National Endowment for the Humanities and the Unicode Adopt-a-Character program. Font production and engineering was completed by JamraPatel.\012\012https://linguistics.berkeley.edu/sei/\012https://aac.unicode.org/\012https://www.neh.gov/\012https://www.jamra-patel.com/";
+}
+);
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2011-2021 Anshuman Pandey";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Jamra Patel LLC";
+}
+);
+},
+{
+key = designerURL;
+value = "https://linguistics.berkeley.edu/sei/";
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Anshuman Pandey";
+}
+);
+}
+);
+}
+);
+}

@@ -90,6 +90,15 @@ CR,
 );
 date = "2021-09-10 17:28:07 +0000";
 familyName = "Noto Sans Sunuwar";
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem sunu dflt;
+languagesystem latn dflt;
+";
+name = languagesystems;
+}
+);
 fontMaster = (
 {
 customParameters = (
