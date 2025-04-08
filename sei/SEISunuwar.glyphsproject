@@ -47,6 +47,13 @@ value = 1;
 disabled = 1;
 name = "TTFAutohint options";
 value = "--default-script=none";
+},
+{
+disabled = 1;
+name = "Webfont Formats";
+value = (
+woff2
+);
 }
 );
 name = Regular;
