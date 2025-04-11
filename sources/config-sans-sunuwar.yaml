@@ -1,4 +1,7 @@
 googleFonts: true
+inncludeSubsets:
+- name: "GF Glyph Sets/GF-latin-ext"
+  from: "Noto Sans"
 sources:
 - NotoSansSunuwar.glyphs
 familyName: Noto Sans Sunuwar
