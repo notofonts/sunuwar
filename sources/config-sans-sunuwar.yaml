@@ -2,7 +2,7 @@ googleFonts: true
 familyName: Noto Sans Sunuwar
 includeSubsets:
 - from: Noto Sans
-  name: GF_Latin_Extended
+  name: GF_Latin_Core
 recipeProvider: noto
 sources:
 - NotoSansSunuwar.glyphs
