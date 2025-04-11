@@ -1,4 +1,7 @@
-# Noto Sunuwar
+# Sunuwar
+
+## Overview
+This Sunuwar font was originally designed for the Unicode proposal. It has been re-engineered to meet meet Noto requirements. The SEI version of the font is located in the `sei` folder. This version can be exported directly using the `.glyphsproject` in the same directory. 
 
 [![][Fontbakery]](https://ScriptEncodingInitiative.github.io/sunuwar/fontbakery/fontbakery-report.html)
 [![][Universal]](https://ScriptEncodingInitiative.github.io/sunuwar/fontbakery/fontbakery-report.html)
