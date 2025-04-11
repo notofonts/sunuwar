@@ -1,6 +1,9 @@
 {
 .appVersion = "3338";
 .formatVersion = 3;
+DisplayStrings = (
+"𑯀𑯁𑯂𑯃𑯄𑯅𑯆𑯇𑯈𑯉𑯊𑯋𑯌𑯍𑯎𑯏𑯐𑯑𑯒𑯓𑯔𑯕𑯖𑯗𑯘𑯙𑯚𑯛𑯜𑯝𑯞𑯟𑯠𑯡𑯰𑯱𑯲𑯳𑯴𑯵𑯶𑯷𑯸𑯹"
+);
 customParameters = (
 {
 name = panose;
@@ -5525,7 +5528,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2021 Anshuman Pandey";
+value = "Copyright 2021 Anshuman Pandey (https://github.com/ScriptEncodingInitiative/sunuwar)";
 }
 );
 },
