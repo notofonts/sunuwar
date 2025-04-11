@@ -1,7 +1,8 @@
 googleFonts: true
-inncludeSubsets:
-- name: "GF Glyph Sets/GF-latin-ext"
-  from: "Noto Sans"
+familyName: Noto Sans Sunuwar
+includeSubsets:
+- from: Noto Sans
+  name: GF_Latin-Extended
+recipeProvider: noto
 sources:
 - NotoSansSunuwar.glyphs
-familyName: Noto Sans Sunuwar
