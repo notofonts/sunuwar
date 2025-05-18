@@ -1,9 +1,6 @@
 {
-.appVersion = "3338";
+.appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"𑯀𑯁𑯂𑯃𑯄𑯅𑯆𑯇𑯈𑯉𑯊𑯋𑯌𑯍𑯎𑯏𑯐𑯑𑯒𑯓𑯔𑯕𑯖𑯗𑯘𑯙𑯚𑯛𑯜𑯝𑯞𑯟𑯠𑯡𑯰𑯱𑯲𑯳𑯴𑯵𑯶𑯷𑯸𑯹"
-);
 customParameters = (
 {
 name = panose;
@@ -5528,7 +5525,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2021 Anshuman Pandey (https://github.com/ScriptEncodingInitiative/sunuwar)";
+value = "Copyright 2021 The Noto Sunuwar Project Authors";
 }
 );
 },
@@ -5625,6 +5622,7 @@ OH = "82";
 OV = "95";
 };
 };
+GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
 versionMinor = 0;
