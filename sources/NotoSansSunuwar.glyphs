@@ -5034,10 +5034,6 @@ instances = (
 {
 customParameters = (
 {
-name = Filter;
-value = RemoveOverlap;
-},
-{
 name = "meta Table";
 value = (
 {
