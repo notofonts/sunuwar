@@ -5521,7 +5521,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2021 The Noto Sunuwar Project Authors";
+value = "Copyright 2021 The Noto Sunuwar Project Authors (https://github.com/ScriptEncodingInitiative/sunuwar)";
 }
 );
 },
